@@ -14,7 +14,7 @@ public class Quanlicuahangthuannhanh {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hello !!!");
+        System.out.println("LE TRUONG HIU VA VO VAN TINH VA VAN TAN");
     }
     
 }
